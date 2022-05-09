@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "917138985333",
+    "project_id": "tnine-84596",
+    "storage_bucket": "tnine-84596.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:917138985333:android:17a7a3111cddf2ca65433c",
+        "android_client_info": {
+          "package_name": "com.example.tnine"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "917138985333-c3vi0t1rbcijl7sdddok6m8b80gun4ik.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC83ZG2wf4LrFjx1wlwN7qbLBUxFN491g8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "917138985333-c3vi0t1rbcijl7sdddok6m8b80gun4ik.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
